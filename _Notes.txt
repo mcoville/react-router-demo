@@ -1,0 +1,7 @@
+1. npm i react-router-dom
+
+in index.js
+2. Wrap <App /> in <BrowserRouter></BrowserRouter>
+
+in App.js
+3.
